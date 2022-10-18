@@ -1,0 +1,75 @@
+.body{
+    background-image: url(img_epitomlogo.jpeg);
+    background-size: 1000px 100px;
+}
+
+.Gtable{
+    border:1px  solid black;
+    height: 1330px;
+    width: 900px;
+}
+.top{
+    display: flex;
+    flex-direction: row;
+}
+.schname2{
+    text-align: center;
+}
+.line1{
+    border:1px solid black;
+}
+.namesection{
+    display: flex;
+    flex-direction: row;
+}
+.section1{
+    position: relative;
+    left: 10px;
+}
+.section3{
+    position: relative;
+    right: 10px;
+}
+.namesection h5{
+text-decoration: none;
+}
+.section2{
+    margin-top: 30px;
+}
+.line2{
+    border: 1px solid black;
+}
+.table1 table, th td{
+    border: 1px solid black;
+    border-collapse: collapse; 
+}
+.grade2{
+     position: relative;
+     left: 700px;
+     bottom: 65px;
+} 
+.line3 table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.line4 table {
+    border-collapse: collapse;
+}
+.line4{
+    position: relative;
+    left: 501px;
+    bottom: 125px;
+}
+.line5{
+    padding-bottom: 30px;
+}
+.end{
+    display:flex;
+    flex-direction: row;
+}
+.end1{
+    padding-left: 10px;
+}
+.end2{
+    padding-left: 150px;
+}
